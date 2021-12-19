@@ -1,9 +1,9 @@
-# Codealo Web App Template
+# Visualizador de Algoritmos
 
-This is the base template that we can use to create new projects with Codealo.
+Una web app que permita visuzliar el ordenamiento una serie de elementos en tiempo real.
 
-Give a boilerplate code to our members so that they can go in and start programming without need for something else.
+El usuario tiene que poder modificar la cantidad de elementos. Además, debe poder seleccionar el algoritmo de ordenamiento a utilizar.
 
-Instructions to run each of the diferent frameworks should be in a `README.md` file.
+Plus: poder modificar la velocidad de ordenamiento.
 
 
